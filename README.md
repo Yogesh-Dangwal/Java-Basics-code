@@ -8,5 +8,4 @@ This repository contains **Java implementations of Data Structures and Algorithm
 
 # Happy Coding
 
-## Author
-# YOGESH DANGWAL
+# Author - Yogesh Dangwal
