@@ -4,9 +4,9 @@ This repository contains **Java implementations of Data Structures and Algorithm
 
 
 ## Covered Topics
-- JAVA BASICS
+- Java Basic codes
 
 # Happy Coding
 
-#Author
-YOGESH DANGWAL
+## Author
+# YOGESH DANGWAL
